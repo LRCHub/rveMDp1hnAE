@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Hesitation Snow",
+  "base_artist": "fripSide",
+  "createdAt": "2025-12-02T08:13:00.004569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hesitation Snow",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/01_Hesitation_Snow_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hesitation Snow",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/02_Hesitation_Snow_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hesitation Snow -version2024-",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/03_Hesitation_Snow_-version2024-_fripSide.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hesitation Snow -version2024-",
+      "artist": "fripSide",
+      "has_synced": false,
+      "path": "select/pl_01_Hesitation_Snow_-version2024-_fripSide.txt"
+    }
+  ]
+}
